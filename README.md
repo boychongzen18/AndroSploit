@@ -30,7 +30,6 @@ python2 main_linux.py
 ![be](https://raw.githubusercontent.com/boychongzen18/AndroSploit/master/Screenshot_2.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/AndroSploit/master/Screenshot_3.png)
 
-# Coder By : https://github.com/metachar
 
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ

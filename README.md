@@ -27,7 +27,7 @@ python2 main_linux.py
 # Eksekusi Android Phone
 
 ![be](https://raw.githubusercontent.com/boychongzen18/AndroSploit/master/Screenshot_1.jpg)
-![be](https://raw.githubusercontent.com/boychongzen18/AndroSploit/master/Screenshot_2.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/AndroSploit/master/Screenshot_22.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/AndroSploit/master/Screenshot_3.jpg)
 
 # Link User Guide Android Debug Bridge : https://developer.android.com/studio/command-line/adb

@@ -31,6 +31,7 @@ python2 main_linux.py
 ![be](https://raw.githubusercontent.com/boychongzen18/AndroSploit/master/Screenshot_3.jpg)
 
 # Link User Guide Android Debug Bridge : https://developer.android.com/studio/command-line/adb
+# Original Script : https://github.com/metachar/PhoneSploit
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 

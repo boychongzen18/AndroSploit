@@ -28,6 +28,8 @@ python2 main_linux.py
 
 ADB Vuln Android Shodan : https://www.shodan.io/search?query=android+debug+bridge+product%3A”Android+Debug+Bridge”
 
+# Attacker vs Victim
+
 # Eksekusi Android Phone Korban / Victim
 
 ![be](https://raw.githubusercontent.com/boychongzen18/AndroSploit/master/victim1.jpg)

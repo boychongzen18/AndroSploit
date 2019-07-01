@@ -2,15 +2,22 @@
 
 INSTALL WINDOWS
 git https://github.com/boychongzen18/AndroSploit.git
+
 extract adb.rar to AndroSploit directory 
+
 cd AndroSploit
+
 pip install colorama
+
 python2 main.py
 
 INSTALL Linux
 git clone https://github.com/boychongzen18/AndroSploit.git
+
 cd AndroSploit
+
 pip install colorama
+
 python2 main_linux.py
 
 # Eksekusi Android Phone

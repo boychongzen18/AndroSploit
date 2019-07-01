@@ -192,7 +192,7 @@ def main():
 
     elif option == '5':
         print (("\n[{0}+{1}]Enter a device name.").format(Fore.RED, Fore.WHITE))
-        device_name = raw_input(arrow + "phonesploit"+Fore.RED + "(apk_install) "+Fore.WHITE + "> ")
+        device_name = raw_input(arrow + "androsploit"+Fore.RED + "(apk_install) "+Fore.WHITE + "> ")
         print (("     "+connect))
         print (("    [{0}+{1}]Enter the apk location.").format(Fore.RED, Fore.WHITE))
         apk_location = raw_input("    "+arrow + "androsploit"+Fore.RED + "(apk_install) "+Fore.WHITE + "> ")
@@ -227,7 +227,7 @@ def main():
         device_name = raw_input(arrow + "androsploit"+Fore.RED + "(file_pull) "+Fore.WHITE + "> ")
         print (("     "+connect))
         print (("    [{0}+{1}]Enter a file location on a device").format(Fore.RED, Fore.WHITE))
-        file_location = raw_input("    "+arrow + "phonesploit"+Fore.RED + "(file_pull) "+Fore.WHITE + "> ")
+        file_location = raw_input("    "+arrow + "androsploit"+Fore.RED + "(file_pull) "+Fore.WHITE + "> ")
         print (("        "+connect))
         print (("       [{0}+{1}]Enter where you would like the file to be saved.").format(Fore.RED, Fore.WHITE))
         place_location = raw_input("       "+arrow + "androsploit"+Fore.RED + "(file_pull) "+Fore.WHITE + "> ")
@@ -264,7 +264,7 @@ def main():
 
     elif option == '15':
         print (("\n[{0}+{1}]Enter a device name.").format(Fore.RED, Fore.WHITE))
-        device_name = raw_input(arrow + "phonesploit"+Fore.RED + "(app_run) "+Fore.WHITE + "> ")
+        device_name = raw_input(arrow + "androsploit"+Fore.RED + "(app_run) "+Fore.WHITE + "> ")
         print (("     "+connect))
         print (("    [{0}+{1}]Enter a package name. They look like this --> com.snapchat.android").format(Fore.RED, Fore.WHITE))
         package_name = raw_input("    "+arrow + "androsploit"+Fore.RED + "(app_run) "+Fore.WHITE + "> ")
@@ -310,7 +310,7 @@ def main():
         os.system("adb -s "+device_name+" shell pm path "+package_name)
         print (("         "+connect))
         print (("        [{0}+{1}]Enter The path.looks like this /data/app/com.snapchat.android-qWgDcBiCEvANq6op_NPqeA==/base.apk").format(Fore.RED, Fore.WHITE))
-        path = raw_input("        "+arrow + "phonesploit"+Fore.RED + "(pull_apk) "+Fore.WHITE + "> ")
+        path = raw_input("        "+arrow + "androsploit"+Fore.RED + "(pull_apk) "+Fore.WHITE + "> ")
         print (("             "+connect))
         print (("            [{0}+{1}]Enter The location to store the apk: ")  .format(Fore.RED, Fore.WHITE))
         location =   raw_input("            "+arrow + "androsploit"+Fore.RED + "(pull_apk) "+Fore.WHITE + "> ")
@@ -357,7 +357,7 @@ def main():
         
     elif option == '24':
         print (("[{0}+{1}]Enter a device name.").format(Fore.RED, Fore.WHITE))
-        device_name = raw_input(arrow + "phonesploit"+Fore.RED + "(keycode) "+Fore.WHITE + "> ")
+        device_name = raw_input(arrow + "androsploit"+Fore.RED + "(keycode) "+Fore.WHITE + "> ")
         print ('''
 0 -->  "KEYCODE_UNKNOWN" 
 1 -->  "KEYCODE_MENU" 
@@ -447,12 +447,12 @@ def main():
 85 -->  "TAG_LAST_KEYCODE"        
         ''')        
         print (("[{0}+{1}]Enter a number.").format(Fore.RED, Fore.WHITE))
-        num = raw_input(arrow + "phonesploit"+Fore.RED + "(keycode) "+Fore.WHITE + "> ")
+        num = raw_input(arrow + "androsploit"+Fore.RED + "(keycode) "+Fore.WHITE + "> ")
         os.system("adb -s "+device_name+" shell input keyevent "+num)
 
     elif option == '25':
         print (("\n[{0}+{1}]Enter a device name.").format(Fore.RED, Fore.WHITE))
-        device_name = raw_input(arrow + "phonesploit"+Fore.RED + "(current_activity) "+Fore.WHITE + "> ")
+        device_name = raw_input(arrow + "androsploit"+Fore.RED + "(current_activity) "+Fore.WHITE + "> ")
         os.system("adb -s " +device_name+ " dumpsys activity")
         main()
         

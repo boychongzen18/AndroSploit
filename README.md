@@ -30,9 +30,9 @@ ADB Vuln Android Shodan : https://www.shodan.io/search?query=android+debug+bridg
 
 # Eksekusi Android Phone
 
-![be](https://raw.githubusercontent.com/boychongzen18/AndroSploit/master/Screenshot_1.jpg)
-![be](https://raw.githubusercontent.com/boychongzen18/AndroSploit/master/Screenshot_22.jpg)
-![be](https://raw.githubusercontent.com/boychongzen18/AndroSploit/master/Screenshot_3.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/AndroSploit/master/victim1.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/AndroSploit/master/victim2.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/AndroSploit/master/android.png)
 
 # Link User Guide Android Debug Bridge : https://developer.android.com/studio/command-line/adb
 # Original Script : https://github.com/metachar/PhoneSploit

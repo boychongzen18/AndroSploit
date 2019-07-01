@@ -14,7 +14,7 @@ pip install colorama
 
 python main.py
 
-ADB Vuln Shodan : https://www.shodan.io/search?query=android+debug+bridge+product%3A”Android+Debug+Bridge”
+ADB Vuln Android Shodan : https://www.shodan.io/search?query=android+debug+bridge+product%3A”Android+Debug+Bridge”
 
 # DOWNLOAD & INSTALL LINUX
 
@@ -26,7 +26,7 @@ pip install colorama
 
 python2 main_linux.py
 
-ADB Vuln Shodan : https://www.shodan.io/search?query=android+debug+bridge+product%3A”Android+Debug+Bridge”
+ADB Vuln Android Shodan : https://www.shodan.io/search?query=android+debug+bridge+product%3A”Android+Debug+Bridge”
 
 # Eksekusi Android Phone
 

@@ -12,7 +12,7 @@ cd AndroSploit
 
 pip install colorama
 
-python2 main.py
+python main.py
 
 # DOWNLOAD & INSTALL Linux
 

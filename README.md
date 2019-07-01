@@ -14,6 +14,8 @@ pip install colorama
 
 python main.py
 
+ADB Vuln Shodan : https://www.shodan.io/search?query=android+debug+bridge+product%3A”Android+Debug+Bridge”
+
 # DOWNLOAD & INSTALL LINUX
 
 git clone https://github.com/boychongzen18/AndroSploit.git
@@ -23,6 +25,8 @@ cd AndroSploit
 pip install colorama
 
 python2 main_linux.py
+
+ADB Vuln Shodan : https://www.shodan.io/search?query=android+debug+bridge+product%3A”Android+Debug+Bridge”
 
 # Eksekusi Android Phone
 

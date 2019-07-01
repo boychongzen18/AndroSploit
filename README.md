@@ -29,7 +29,7 @@ python2 main_linux.py
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : https://youtu.be/giKNEB4aQeA
+Link Tutorial : 
 
 My Website    : https://hackingforlive.wordpress.com
 

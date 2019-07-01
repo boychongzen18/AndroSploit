@@ -14,7 +14,7 @@ pip install colorama
 
 python main.py
 
-# DOWNLOAD & INSTALL Linux
+# DOWNLOAD & INSTALL LINUX
 
 git clone https://github.com/boychongzen18/AndroSploit.git
 

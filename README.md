@@ -4,7 +4,7 @@
 
 # DOWNLOAD & INSTALL WINDOWS
 
-git https://github.com/boychongzen18/AndroSploit.git
+git clone https://github.com/boychongzen18/AndroSploit.git
 
 extract adb.rar to AndroSploit directory 
 

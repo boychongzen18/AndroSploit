@@ -1,6 +1,7 @@
 # Exploit Android Phone Via Kabel Data,WIFI Windows All Version & Linux
 
-INSTALL WINDOWS
+DOWNLOAD & INSTALL WINDOWS
+
 git https://github.com/boychongzen18/AndroSploit.git
 
 extract adb.rar to AndroSploit directory 
@@ -11,7 +12,8 @@ pip install colorama
 
 python2 main.py
 
-INSTALL Linux
+DOWNLOAD & INSTALL Linux
+
 git clone https://github.com/boychongzen18/AndroSploit.git
 
 cd AndroSploit

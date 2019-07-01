@@ -41,7 +41,7 @@ ADB Vuln Android Shodan : https://www.shodan.io/search?query=android+debug+bridg
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : 
+Link Tutorial : https://youtu.be/e5muyCGVpDM
 
 My Website    : https://hackingforlive.wordpress.com
 
